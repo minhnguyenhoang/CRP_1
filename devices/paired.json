@@ -1,0 +1,73 @@
+{
+  "2540decfaa1eabc27fbcda0eaefeab087ae8a99bcb5f41cff2561a523fea924a": {
+    "deviceId": "2540decfaa1eabc27fbcda0eaefeab087ae8a99bcb5f41cff2561a523fea924a",
+    "publicKey": "odfOH5ghxu58kXvPyDSvZGqyE84Ep9UWrFTxRvmknC8",
+    "platform": "linux",
+    "clientId": "cli",
+    "clientMode": "probe",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.read"
+    ],
+    "approvedScopes": [
+      "operator.read"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "ftkhJFQeGY6-QprcVJv-mAv8drcM3c6l03-yJrQqgEk",
+        "role": "operator",
+        "scopes": [
+          "operator.read"
+        ],
+        "createdAtMs": 1776956724536,
+        "rotatedAtMs": 1776956724541
+      }
+    },
+    "createdAtMs": 1776956724536,
+    "approvedAtMs": 1776956724541
+  },
+  "00c322ca2a1213942f250e3cdb0c9948c45f34fa69f32a9ebb712fa5f3789fad": {
+    "deviceId": "00c322ca2a1213942f250e3cdb0c9948c45f34fa69f32a9ebb712fa5f3789fad",
+    "publicKey": "zQIpmocjlcySsE_kCIlzA6cNxJ15BYkZqOuasRhvvgY",
+    "platform": "Linux x86_64",
+    "clientId": "openclaw-control-ui",
+    "clientMode": "webchat",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.read",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "approvedScopes": [
+      "operator.admin",
+      "operator.read",
+      "operator.write",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "Bab8X8rDzRsGaJoNuKVLge7n5p58X_Jj_BHlKgwZceo",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing",
+          "operator.read",
+          "operator.write"
+        ],
+        "createdAtMs": 1776956740916
+      }
+    },
+    "createdAtMs": 1776956740916,
+    "approvedAtMs": 1776956740916
+  }
+}

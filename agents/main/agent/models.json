@@ -1,0 +1,152 @@
+{
+  "providers": {
+    "codex": {
+      "baseUrl": "https://chatgpt.com/backend-api/v1",
+      "apiKey": "codex-app-server",
+      "auth": "token",
+      "api": "openai-codex-responses",
+      "models": [
+        {
+          "id": "gpt-5.4",
+          "name": "gpt-5.4",
+          "api": "openai-codex-responses",
+          "reasoning": true,
+          "input": [
+            "text",
+            "image"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 272000,
+          "maxTokens": 128000,
+          "compat": {
+            "supportsReasoningEffort": true,
+            "supportsUsageInStreaming": true
+          }
+        },
+        {
+          "id": "gpt-5.4-mini",
+          "name": "GPT-5.4-Mini",
+          "api": "openai-codex-responses",
+          "reasoning": true,
+          "input": [
+            "text",
+            "image"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 272000,
+          "maxTokens": 128000,
+          "compat": {
+            "supportsReasoningEffort": true,
+            "supportsUsageInStreaming": true
+          }
+        },
+        {
+          "id": "gpt-5.2",
+          "name": "gpt-5.2",
+          "api": "openai-codex-responses",
+          "reasoning": true,
+          "input": [
+            "text",
+            "image"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 272000,
+          "maxTokens": 128000,
+          "compat": {
+            "supportsReasoningEffort": true,
+            "supportsUsageInStreaming": true
+          }
+        }
+      ]
+    },
+    "lmstudio": {
+      "baseUrl": "http://localhost:1234/v1",
+      "api": "openai-completions",
+      "models": [
+        {
+          "id": "google/gemma-4-e4b",
+          "name": "Gemma 4 E4B",
+          "reasoning": true,
+          "input": [
+            "text",
+            "image"
+          ],
+          "cost": {
+            "input": 0,
+            "output": 0,
+            "cacheRead": 0,
+            "cacheWrite": 0
+          },
+          "contextWindow": 131072,
+          "contextTokens": 32768,
+          "maxTokens": 8192,
+          "api": "openai-completions"
+        }
+      ],
+      "apiKey": "LM_API_TOKEN",
+      "auth": "api-key"
+    },
+    "deepseek": {
+      "baseUrl": "https://api.deepseek.com/v1",
+      "api": "openai-completions",
+      "models": [
+        {
+          "id": "deepseek-chat",
+          "name": "DeepSeek Chat",
+          "api": "openai-completions",
+          "reasoning": false,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0.28,
+            "output": 0.42,
+            "cacheRead": 0.028,
+            "cacheWrite": 0
+          },
+          "contextWindow": 131072,
+          "maxTokens": 8192,
+          "compat": {
+            "supportsUsageInStreaming": true
+          }
+        },
+        {
+          "id": "deepseek-reasoner",
+          "name": "DeepSeek Reasoner",
+          "api": "openai-completions",
+          "reasoning": true,
+          "input": [
+            "text"
+          ],
+          "cost": {
+            "input": 0.28,
+            "output": 0.42,
+            "cacheRead": 0.028,
+            "cacheWrite": 0
+          },
+          "contextWindow": 131072,
+          "maxTokens": 65536,
+          "compat": {
+            "supportsUsageInStreaming": true
+          }
+        }
+      ],
+      "apiKey": "sk-ad2c4cc40482431cb4bbd57f7278015c"
+    }
+  }
+}

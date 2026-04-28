@@ -1,0 +1,499 @@
+{
+  "files": [
+    {
+      "name": "PRC-AQA-002_Student-Grade-Appeal-Procedures_21.01.2026.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2026/01/PRC-AQA-002_Student-Grade-Appeal-Procedures_21.01.2026.pdf",
+      "type": "pdf",
+      "sha256": "215940b4e5260c80ec3fe3a42703218c1e91272de0c1ee31a93463e881ee8141",
+      "last_checked": "2026-04-28T15:09:26.031430",
+      "last_modified": "Thu, 22 Jan 2026 11:01:03 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/faadeb61a9b3_PRC-AQA-002_Student-Grade-Appeal-Procedures_21.01.2026.pdf"
+    },
+    {
+      "name": "GDL-REG-002-V4.0_English-Language-Requirements-For-Undergraduate-Admissions.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2026/01/GDL-REG-002-V4.0_English-Language-Requirements-For-Undergraduate-Admissions.pdf",
+      "type": "pdf",
+      "sha256": "050e16b5b731b720c1a03bb5c8d98b5c7831e454bb28dc1e027dda2c374da022",
+      "last_checked": "2026-04-28T15:09:26.252817",
+      "last_modified": "Sat, 17 Jan 2026 06:47:48 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/d00cc551bfe2_GDL-REG-002-V4.0_English-Language-Requirements-For-Undergraduate-Admissions.pdf"
+    },
+    {
+      "name": "GDL-RMO-002-V1.0_Start-up-Funding-Guidelines_Eng_7.1.2026.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2026/02/GDL-RMO-002-V1.0_Start-up-Funding-Guidelines_Eng_7.1.2026.pdf",
+      "type": "pdf",
+      "sha256": "a4635d47928068303d16fc6584d297e115eb3aea29274e9f8e6eaed7f9cd7c63",
+      "last_checked": "2026-04-28T15:09:26.524009",
+      "last_modified": "Tue, 24 Feb 2026 09:41:21 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/6ac56c41a429_GDL-RMO-002-V1.0_Start-up-Funding-Guidelines_Eng_7.1.2026.pdf"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/all-policies/course-evaluation/",
+      "type": "link",
+      "sha256": "6d7a601ca9d6a59e46a925a499d3d41d08c4cb196ea84328d96b57b062284bfa",
+      "last_checked": "2026-04-28T15:09:27.164264",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/988e958e14b3_unnamed_file.html"
+    },
+    {
+      "name": "20251224_GDL-SAM-007-V2.0_Formal-Escalation-Management-Procedure-for-Students.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/02/20251224_GDL-SAM-007-V2.0_Formal-Escalation-Management-Procedure-for-Students.pdf",
+      "type": "pdf",
+      "sha256": "45499d04d4d48d887cf8551bfc9ac91b2e5e8d84ae1d80f3e91d036109b5a2f4",
+      "last_checked": "2026-04-28T15:09:27.337087",
+      "last_modified": "Wed, 24 Dec 2025 10:21:14 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/5b20bb6059b8_20251224_GDL-SAM-007-V2.0_Formal-Escalation-Management-Procedure-for-Students.pdf"
+    },
+    {
+      "name": "VU_CTSV02_Student-Code-of-Conduct_24.12.2025.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/12/VU_CTSV02_Student-Code-of-Conduct_24.12.2025.pdf",
+      "type": "pdf",
+      "sha256": "2ff016d8294380e91bc452ce28c1a79a778c4fbcd4113bb4b29d05e668e3a796",
+      "last_checked": "2026-04-28T15:09:27.587732",
+      "last_modified": "Fri, 26 Dec 2025 02:23:28 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/f58af84b7621_VU_CTSV02_Student-Code-of-Conduct_24.12.2025.pdf"
+    },
+    {
+      "name": "POL-CAID-001-V2.0_Internship-Management-Policy_15.10.2025.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/10/POL-CAID-001-V2.0_Internship-Management-Policy_15.10.2025.pdf",
+      "type": "pdf",
+      "sha256": "a5ce74383aea24a0558e3b213a414ae95baa4e070a13902fa560a75c7d563824",
+      "last_checked": "2026-04-28T15:09:27.828810",
+      "last_modified": "Thu, 16 Oct 2025 09:38:50 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/f6baf25e3cfd_POL-CAID-001-V2.0_Internship-Management-Policy_15.10.2025.pdf"
+    },
+    {
+      "name": "250915_Attendance-Policy-at-Medical-Doctor-Program.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/03/250915_Attendance-Policy-at-Medical-Doctor-Program.pdf",
+      "type": "pdf",
+      "sha256": "cb22201427b0546c0b371f2c11352c93a1dc8c2dbe7650672dd01892a1ad6de4",
+      "last_checked": "2026-04-28T15:09:28.104671",
+      "last_modified": "Mon, 15 Sep 2025 06:51:09 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/a0fdfe3c2d61_250915_Attendance-Policy-at-Medical-Doctor-Program.pdf"
+    },
+    {
+      "name": "GDL-SAM-004-V2.1_Guidelines-for-maintaining-entry-scholarship-and-financial-aid-support_4.9.2025.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/09/GDL-SAM-004-V2.1_Guidelines-for-maintaining-entry-scholarship-and-financial-aid-support_4.9.2025.pdf",
+      "type": "pdf",
+      "sha256": "9776373532d68ff7736482b2e7aaa2703dc0f7953bf9c0fb577c17bced981290",
+      "last_checked": "2026-04-28T15:09:28.248098",
+      "last_modified": "Thu, 04 Sep 2025 09:56:44 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/94f545a014dc_GDL-SAM-004-V2.1_Guidelines-for-maintaining-entry-scholarship-and-financial-aid-support_4.9.2025.pdf"
+    },
+    {
+      "name": "FW-SAM-001-V2.0_Student-Advising-Framework_20250903.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/FW-SAM-001-V2.0_Student-Advising-Framework_20250903.pdf",
+      "type": "pdf",
+      "sha256": "048d083cfbe6f9b22e4eed32f90d41f8ed63bc5873d732fe75824d3edacc7139",
+      "last_checked": "2026-04-28T15:09:28.400829",
+      "last_modified": "Wed, 03 Sep 2025 10:58:08 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/2197829b458a_FW-SAM-001-V2.0_Student-Advising-Framework_20250903.pdf"
+    },
+    {
+      "name": "POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/07/POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.pdf",
+      "type": "pdf",
+      "sha256": "4d8aa1e870ea0939e8c792fc7a848ec00c460935fb1b053c679668eb56f86e83",
+      "last_checked": "2026-04-28T15:09:28.654671",
+      "last_modified": "Thu, 10 Jul 2025 10:26:16 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/9de6783c2dee_POL-LLR-001-V4.0_Library-Access-Services-Policy_9.7.2025_Clean.pdf"
+    },
+    {
+      "name": "GDL-LAB-001-V1.0_Regulations-on-management-of-laboratories-at-VinUniversity_30.06.2025-1.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/07/GDL-LAB-001-V1.0_Regulations-on-management-of-laboratories-at-VinUniversity_30.06.2025-1.pdf",
+      "type": "pdf",
+      "sha256": "dff591a407a39c68e0c5536acc5bc345d47cff3aa1fa39c52ee4bd246581e812",
+      "last_checked": "2026-04-28T15:09:28.882201",
+      "last_modified": "Wed, 09 Jul 2025 05:16:25 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/1788e372caae_GDL-LAB-001-V1.0_Regulations-on-management-of-laboratories-at-VinUniversity_30.06.2025-1.pdf"
+    },
+    {
+      "name": "GDL-SAM-008_Residential-Life-Guideline_07.8.2025.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/11/GDL-SAM-008_Residential-Life-Guideline_07.8.2025.pdf",
+      "type": "pdf",
+      "sha256": "1c399f1d80295d9ed0daf201e42fbbfa8498212c6a1a109a4d571bbe1980e28b",
+      "last_checked": "2026-04-28T15:09:29.107471",
+      "last_modified": "Tue, 25 Nov 2025 07:01:06 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/8afabb801104_GDL-SAM-008_Residential-Life-Guideline_07.8.2025.pdf"
+    },
+    {
+      "name": "GDL-SAM-003-V2.0_Fitness-to-study-Procedures_29.05.2025.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/05/GDL-SAM-003-V2.0_Fitness-to-study-Procedures_29.05.2025.pdf",
+      "type": "pdf",
+      "sha256": "4ca5524f6ff9ba45b7ec92617272e0022943715cb245cc9d9f528a9e6be40235",
+      "last_checked": "2026-04-28T15:09:29.244920",
+      "last_modified": "Fri, 30 May 2025 02:29:53 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/22fbdb618c99_GDL-SAM-003-V2.0_Fitness-to-study-Procedures_29.05.2025.pdf"
+    },
+    {
+      "name": "POL-ADM-001-V3.0_Quy-che-TS-chuong-trinh-BSNT-VinUni_VN.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/06/POL-ADM-001-V3.0_Quy-che-TS-chuong-trinh-BSNT-VinUni_VN.pdf",
+      "type": "pdf",
+      "sha256": "45911037d927b0a35522127394c6cf1448dacd246db94b956d7bb2e5048bd885",
+      "last_checked": "2026-04-28T15:09:29.554549",
+      "last_modified": "Fri, 13 Jun 2025 11:26:46 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/4d7e043f664f_POL-ADM-001-V3.0_Quy-che-TS-chuong-trinh-BSNT-VinUni_VN.pdf"
+    },
+    {
+      "name": "GDL-FAO-001-V2.0_Guideline-for-Student-Financial-Support-Request_22.04.2025.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/09/GDL-FAO-001-V2.0_Guideline-for-Student-Financial-Support-Request_22.04.2025.pdf",
+      "type": "pdf",
+      "sha256": "b07bfcf7ccd08feb9bd6cddcfb96a53a56c35bf18b56746d31e7548df8cc9d08",
+      "last_checked": "2026-04-28T15:09:29.721146",
+      "last_modified": "Sat, 06 Sep 2025 11:51:07 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/09f5b80e6a2b_GDL-FAO-001-V2.0_Guideline-for-Student-Financial-Support-Request_22.04.2025.pdf"
+    },
+    {
+      "name": "GDL-CHS-003_V1.0_Safe-and-Supported-Pregnancy-Guidelines-2025.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2026/02/GDL-CHS-003_V1.0_Safe-and-Supported-Pregnancy-Guidelines-2025.pdf",
+      "type": "pdf",
+      "sha256": "93f8fc309bd473e1d3f3803f5cba5f312735eb477ab244c713b361ad6d729b20",
+      "last_checked": "2026-04-28T15:09:30.000371",
+      "last_modified": "Tue, 24 Feb 2026 11:02:00 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/b39c7bc1f1e9_GDL-CHS-003_V1.0_Safe-and-Supported-Pregnancy-Guidelines-2025.pdf"
+    },
+    {
+      "name": "241212_VUNI-35_Procedure-for-outbound-student-exchange-program_vF.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/12/241212_VUNI-35_Procedure-for-outbound-student-exchange-program_vF.pdf",
+      "type": "pdf",
+      "sha256": "fa741d0b301a3eb18882f83d4a720b164d344b6eeddf381eeb59ac5bbfead5c3",
+      "last_checked": "2026-04-28T15:09:30.228468",
+      "last_modified": "Thu, 12 Dec 2024 04:57:22 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/89f14ccfdd75_241212_VUNI-35_Procedure-for-outbound-student-exchange-program_vF.pdf"
+    },
+    {
+      "name": "241126_GDL-VINO-003-V2.0_Admitted-and-Graduating-Student-Attributes.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/241126_GDL-VINO-003-V2.0_Admitted-and-Graduating-Student-Attributes.pdf",
+      "type": "pdf",
+      "sha256": "470509465cb1adc68a9f5c4b98019396daa4850d2efa48e05d3e2859646099e8",
+      "last_checked": "2026-04-28T15:09:30.568867",
+      "last_modified": "Fri, 15 Aug 2025 09:31:20 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/873b46f2ad37_241126_GDL-VINO-003-V2.0_Admitted-and-Graduating-Student-Attributes.pdf"
+    },
+    {
+      "name": "GDL-SAM-006-V1.0_Study-Visa-Guidelines-for-International-Students_22.11.2024.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/06/GDL-SAM-006-V1.0_Study-Visa-Guidelines-for-International-Students_22.11.2024.pdf",
+      "type": "pdf",
+      "sha256": "5fc30dcd0eb20a9f057e53cadaf7c782432fdfb9dc7b27138ced04ba9eaa786a",
+      "last_checked": "2026-04-28T15:09:30.811597",
+      "last_modified": "Sat, 21 Jun 2025 06:40:47 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/eb574da2dfeb_GDL-SAM-006-V1.0_Study-Visa-Guidelines-for-International-Students_22.11.2024.pdf"
+    },
+    {
+      "name": "VUNI.92_Alumni-Policy_21.11.2024.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/11/VUNI.92_Alumni-Policy_21.11.2024.pdf",
+      "type": "pdf",
+      "sha256": "1d34f5be9aeb8ffdda59fd19048c017b30a06248ac5932fa8d6fd3578d54f03d",
+      "last_checked": "2026-04-28T15:09:31.034723",
+      "last_modified": "Thu, 21 Nov 2024 10:47:40 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/6612c6067961_VUNI.92_Alumni-Policy_21.11.2024.pdf"
+    },
+    {
+      "name": "VUNI.90_Quy-trinh-xet-Tot-nghiep-va-cap-bang-Dai-hoc_VN-EN.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/11/VUNI.90_Quy-trinh-xet-Tot-nghiep-va-cap-bang-Dai-hoc_VN-EN.pdf",
+      "type": "pdf",
+      "sha256": "c26f06f738209e47b8fe9446f3dcc6d82bb6bcc6af9d56e7c0bfcaef29ec3a83",
+      "last_checked": "2026-04-28T15:09:31.296921",
+      "last_modified": "Tue, 12 Nov 2024 04:23:03 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/66bf333441e3_VUNI.90_Quy-trinh-xet-Tot-nghiep-va-cap-bang-Dai-hoc_VN-EN.pdf"
+    },
+    {
+      "name": "VUNI.87_Vietnamese-Language-Program-for-International-Students_29.10.2024.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/10/VUNI.87_Vietnamese-Language-Program-for-International-Students_29.10.2024.pdf",
+      "type": "pdf",
+      "sha256": "a3588367e12c03f5f41460be6031794415d0b12cbb6dfd902151955c15a74bd1",
+      "last_checked": "2026-04-28T15:09:31.444716",
+      "last_modified": "Tue, 29 Oct 2024 10:53:10 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/db857341cc97_VUNI.87_Vietnamese-Language-Program-for-International-Students_29.10.2024.pdf"
+    },
+    {
+      "name": "VU_HT03.EN_Academic-Regulations-For-Full-Time-Undergraduate-Programs_30102024.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/VU_HT03.EN_Academic-Regulations-For-Full-Time-Undergraduate-Programs_30102024.pdf",
+      "type": "pdf",
+      "sha256": "292fbda6b008625116de0c1a0b27f297ab73ce329a8b1fb6e35c9dc1506b6f10",
+      "last_checked": "2026-04-28T15:09:31.781656",
+      "last_modified": "Thu, 31 Oct 2024 04:59:03 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/b1237e2bc06f_VU_HT03.EN_Academic-Regulations-For-Full-Time-Undergraduate-Programs_30102024.pdf"
+    },
+    {
+      "name": "GDL-CEM-001-V1.0_Guidelines-on-Student-Use-of-Generative-Artificial-Intelligence.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/06/GDL-CEM-001-V1.0_Guidelines-on-Student-Use-of-Generative-Artificial-Intelligence.pdf",
+      "type": "pdf",
+      "sha256": "c365c7fb2b807f7c7812cd306f7d129e110a5fd7724d007d32ba5d28482d46e3",
+      "last_checked": "2026-04-28T15:09:31.977959",
+      "last_modified": "Thu, 19 Jun 2025 08:38:58 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/797f20ef6c38_GDL-CEM-001-V1.0_Guidelines-on-Student-Use-of-Generative-Artificial-Intelligence.pdf"
+    },
+    {
+      "name": "Guide-Office-365-Quick-Setup.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/08/Guide-Office-365-Quick-Setup.pdf",
+      "type": "pdf",
+      "sha256": "1e2e57137c32caecaad91f973b6246f8c3e9aa74fc1d5a138e72477863c78959",
+      "last_checked": "2026-04-28T15:09:32.295039",
+      "last_modified": "Wed, 21 Aug 2024 03:59:52 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/0d98eb4fe7ea_Guide-Office-365-Quick-Setup.pdf"
+    },
+    {
+      "name": "240803_VUNI.78_English-Language-Requirement-for-Graduation.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/08/240803_VUNI.78_English-Language-Requirement-for-Graduation.pdf",
+      "type": "pdf",
+      "sha256": "54567b42fe60f287a96951fb69ba25e0e68b3b5529becdb2ff7e9b0aa9cb4774",
+      "last_checked": "2026-04-28T15:09:32.472309",
+      "last_modified": "Sat, 03 Aug 2024 11:12:39 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/d8898b386723_240803_VUNI.78_English-Language-Requirement-for-Graduation.pdf"
+    },
+    {
+      "name": "VUNI.77_240722_Guidelines-for-Thesis-and-Dissertation-Submission_vF.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/07/VUNI.77_240722_Guidelines-for-Thesis-and-Dissertation-Submission_vF.pdf",
+      "type": "pdf",
+      "sha256": "7de96f5dbaeefe21fb8ac8f49f33a4f0bb715fd90338d3b28bc4a7681b1d3424",
+      "last_checked": "2026-04-28T15:09:32.762775",
+      "last_modified": "Mon, 05 Aug 2024 07:35:24 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/f96368cbdbfe_VUNI.77_240722_Guidelines-for-Thesis-and-Dissertation-Submission_vF.pdf"
+    },
+    {
+      "name": "240611_GDL-CHS-002-V2.0_CHS-Assessment-policy-for-Undergrade.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/240611_GDL-CHS-002-V2.0_CHS-Assessment-policy-for-Undergrade.pdf",
+      "type": "pdf",
+      "sha256": "8c3c30e00243ebf6cd60514eb3c55af2e359a0cba7b48f52d043ceeb31b538f1",
+      "last_checked": "2026-04-28T15:09:32.991092",
+      "last_modified": "Fri, 22 Aug 2025 10:25:51 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/bd652b9f5e77_240611_GDL-CHS-002-V2.0_CHS-Assessment-policy-for-Undergrade.pdf"
+    },
+    {
+      "name": "Graduation-Diploma_Template-watermarked_compressed.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/05/Graduation-Diploma_Template-watermarked_compressed.pdf",
+      "type": "pdf",
+      "sha256": "27fdfd6135a07896c17bc6bd2b0868e15f11f4bb13f7218393d130e2d0e75a6d",
+      "last_checked": "2026-04-28T15:09:33.183326",
+      "last_modified": "Wed, 29 May 2024 07:39:23 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/e6054f8fbb6f_Graduation-Diploma_Template-watermarked_compressed.pdf"
+    },
+    {
+      "name": "240503_VUNI.54_Withdrawal-LOA-and-returning-after-a-LOA-procedure.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/05/240503_VUNI.54_Withdrawal-LOA-and-returning-after-a-LOA-procedure.pdf",
+      "type": "pdf",
+      "sha256": "080d1e155deb4a905edc6f2c38e9f8284f7b6d7a0166f0d29379974b166b8742",
+      "last_checked": "2026-04-28T15:09:33.401594",
+      "last_modified": "Fri, 03 May 2024 07:03:14 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/c9cfbafe1192_240503_VUNI.54_Withdrawal-LOA-and-returning-after-a-LOA-procedure.pdf"
+    },
+    {
+      "name": "FW-CBM-001-V1.0_Leaders20-Syllabus-Framework_08.04.2024.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2025/07/FW-CBM-001-V1.0_Leaders20-Syllabus-Framework_08.04.2024.pdf",
+      "type": "pdf",
+      "sha256": "4edf616153dee4144ecbe1c4d10cf8dddee24f10dbcd562f42e0de3d83114007",
+      "last_checked": "2026-04-28T15:09:33.627749",
+      "last_modified": "Thu, 03 Jul 2025 10:43:37 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/2a7021faa6cd_FW-CBM-001-V1.0_Leaders20-Syllabus-Framework_08.04.2024.pdf"
+    },
+    {
+      "name": "VUNI.58_Integrated-Degree-Programs-Procedure_17.01.2024.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2024/01/VUNI.58_Integrated-Degree-Programs-Procedure_17.01.2024.pdf",
+      "type": "pdf",
+      "sha256": "4a23069495d46034e426b0b9d164c0e199935b7f62547259f984721231b855e6",
+      "last_checked": "2026-04-28T15:09:33.867400",
+      "last_modified": "Wed, 17 Jan 2024 08:41:34 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/f5c023337f06_VUNI.58_Integrated-Degree-Programs-Procedure_17.01.2024.pdf"
+    },
+    {
+      "name": "VUNI.50_University-Academic-Catalog-Guidelines_15.11.2023.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/11/VUNI.50_University-Academic-Catalog-Guidelines_15.11.2023.pdf",
+      "type": "pdf",
+      "sha256": "79c5384b87a738b644f398b4b5a302658a1dd40e2c12dd576577fe7d022c58a6",
+      "last_checked": "2026-04-28T15:09:34.020794",
+      "last_modified": "Wed, 15 Nov 2023 08:24:50 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/1e338d9b58fe_VUNI.50_University-Academic-Catalog-Guidelines_15.11.2023.pdf"
+    },
+    {
+      "name": "20250116-Decision-issues-GME-regulations.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/10/20250116-Decision-issues-GME-regulations.pdf",
+      "type": "pdf",
+      "sha256": "367b962ca8f57b5b1d0ccb59f6158ffe92678b059c348aead50b170f91320a0b",
+      "last_checked": "2026-04-28T15:09:34.238440",
+      "last_modified": "Wed, 09 Apr 2025 02:52:20 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/d17d6629f06d_20250116-Decision-issues-GME-regulations.pdf"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/all-policies/supervision-of-gme-program/",
+      "type": "link",
+      "sha256": "e28aec5e1841201eb3a3c6b4a1fe8d55b28c774265b5a3945c14f1151b6ae07d",
+      "last_checked": "2026-04-28T15:09:34.844347",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/3001c4a46300_unnamed_file.html"
+    },
+    {
+      "name": "230619_VUNI_Sexual-Misconduct-and-Response-Guideline_vF.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/06/230619_VUNI_Sexual-Misconduct-and-Response-Guideline_vF.pdf",
+      "type": "pdf",
+      "sha256": "6adc5abb8289a9a2d3f2027eda0656e2de8a820c1b6c56c35dfc2d4d18f4a833",
+      "last_checked": "2026-04-28T15:09:35.088086",
+      "last_modified": "Mon, 19 Jun 2023 07:10:29 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/1f494418dbab_230619_VUNI_Sexual-Misconduct-and-Response-Guideline_vF.pdf"
+    },
+    {
+      "name": "230515_VUNI_Quy-che-dao-tao-Tien-si.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/230515_VUNI_Quy-che-dao-tao-Tien-si.pdf",
+      "type": "pdf",
+      "sha256": "e7d070894e48e9e422238c917e6a1a86e26820d89a2e2bf1f77478496f6a08e4",
+      "last_checked": "2026-04-28T15:09:35.319592",
+      "last_modified": "Fri, 19 May 2023 08:55:01 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/e65513e2fbc4_230515_VUNI_Quy-che-dao-tao-Tien-si.pdf"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/all-policies/regulation-for-library-management/",
+      "type": "link",
+      "sha256": "dd39e0b14ad89f9f0349b303256497c7c70100fe5a96f820f67d34b2f538678b",
+      "last_checked": "2026-04-28T15:09:35.949061",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/1c0e2673ae31_unnamed_file.html"
+    },
+    {
+      "name": "Flowchart_Transfer-of-Credit-Request.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/Flowchart_Transfer-of-Credit-Request.pdf",
+      "type": "pdf",
+      "sha256": "e80e2448c5394283b2ea9a71272940b2539a165ca0688f6b569534519c6e78e1",
+      "last_checked": "2026-04-28T15:09:36.846441",
+      "last_modified": "Fri, 19 May 2023 10:01:26 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/f75d6c398ddc_Flowchart_Transfer-of-Credit-Request.pdf"
+    },
+    {
+      "name": "VU_HT02.VN_Quy-che-dao-tao-Trinh-do-Thac-sy_20.12.2022.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/VU_HT02.VN_Quy-che-dao-tao-Trinh-do-Thac-sy_20.12.2022.pdf",
+      "type": "pdf",
+      "sha256": "31c927ab06daf608cdcdffa5d277a1402b46677719e67c72d8a532cdf9b72230",
+      "last_checked": "2026-04-28T15:09:37.105222",
+      "last_modified": "Tue, 06 Jun 2023 07:26:37 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/57eeac0e23bd_VU_HT02.VN_Quy-che-dao-tao-Trinh-do-Thac-sy_20.12.2022.pdf"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/all-policies/student-academic-integrity/",
+      "type": "link",
+      "sha256": "28f71be78fb1ab41cccb669254ff9e98c1c158d2a5f7bb707a48868673fd84c3",
+      "last_checked": "2026-04-28T15:09:37.621120",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/a115c26108ac_unnamed_file.html"
+    },
+    {
+      "name": "VU_AN03.VN_Quy-dinh-xu-ly-su-co-chay_10.06.2022.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/VU_AN03.VN_Quy-dinh-xu-ly-su-co-chay_10.06.2022.pdf",
+      "type": "pdf",
+      "sha256": "71e72b36d313d0b7aec7dcd54009d4017f3677ef8657c24996998a0dfa14a356",
+      "last_checked": "2026-04-28T15:09:37.819895",
+      "last_modified": "Wed, 24 May 2023 04:24:39 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/49386f89a782_VU_AN03.VN_Quy-dinh-xu-ly-su-co-chay_10.06.2022.pdf"
+    },
+    {
+      "name": "VU_AN02.VN_Quy-dinh-ATVSLD-VSMT-Y-te-truong-hoc-va-PCCC_10.06.2022.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/VU_AN02.VN_Quy-dinh-ATVSLD-VSMT-Y-te-truong-hoc-va-PCCC_10.06.2022.pdf",
+      "type": "pdf",
+      "sha256": "d252131124ddc5dcd6ecc9c01b163c912410ea407334d48a0d922136144eee2f",
+      "last_checked": "2026-04-28T15:09:38.131209",
+      "last_modified": "Mon, 05 Jun 2023 03:09:42 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/fb6643a6925d_VU_AN02.VN_Quy-dinh-ATVSLD-VSMT-Y-te-truong-hoc-va-PCCC_10.06.2022.pdf"
+    },
+    {
+      "name": "VU_AN01.VN_Tieu-chuan-ANAT-PCCN_10.06.2022.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/VU_AN01.VN_Tieu-chuan-ANAT-PCCN_10.06.2022.pdf",
+      "type": "pdf",
+      "sha256": "178d1f08a26f50904d9dda595be621db49661987e78015dd856628286c57dc09",
+      "last_checked": "2026-04-28T15:09:38.361186",
+      "last_modified": "Mon, 05 Jun 2023 03:12:42 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/68a33957abab_VU_AN01.VN_Tieu-chuan-ANAT-PCCN_10.06.2022.pdf"
+    },
+    {
+      "name": "211130_VUNI.32_IDCM-Program_Procedures_vf-1.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/211130_VUNI.32_IDCM-Program_Procedures_vf-1.pdf",
+      "type": "pdf",
+      "sha256": "eeb1bdcc92cadf0a168ba4c1463ea7e36f308faa5dc467c5e48a323faaaffe6c",
+      "last_checked": "2026-04-28T15:09:38.655732",
+      "last_modified": "Wed, 09 Apr 2025 02:31:50 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/64214193724a_211130_VUNI.32_IDCM-Program_Procedures_vf-1.pdf"
+    },
+    {
+      "name": "260721_VUNI_Program-Change-Request-Guideline-vF.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/260721_VUNI_Program-Change-Request-Guideline-vF.pdf",
+      "type": "pdf",
+      "sha256": "6744d930de9a3941684e34c4ff1baa49b3f96901da192f0131eab40650abb311",
+      "last_checked": "2026-04-28T15:09:38.887260",
+      "last_modified": "Fri, 19 May 2023 02:25:48 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/3a173c2911a1_260721_VUNI_Program-Change-Request-Guideline-vF.pdf"
+    },
+    {
+      "name": "VU_MKT01.EN_Quy-dinh-nhan-dien-thuong-hieu-VinUni_10.05.2021.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/VU_MKT01.EN_Quy-dinh-nhan-dien-thuong-hieu-VinUni_10.05.2021.pdf",
+      "type": "pdf",
+      "sha256": "e07fe649f4a53dd3fb55534c6f5a9666ab9a2568a8bb42ea60bc0fc3db2a4d7a",
+      "last_checked": "2026-04-28T15:09:39.247402",
+      "last_modified": "Thu, 18 May 2023 07:54:50 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/59d890771c2b_VU_MKT01.EN_Quy-dinh-nhan-dien-thuong-hieu-VinUni_10.05.2021.pdf"
+    },
+    {
+      "name": "210309_GDL-REG-003-V1.0_Guideline-on-Student-Record-Privacy.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/210309_GDL-REG-003-V1.0_Guideline-on-Student-Record-Privacy.pdf",
+      "type": "pdf",
+      "sha256": "cfd2188a8084cb0ec04e185289a8e4bdf9cefee13d9ff58982dc2c113f14bca7",
+      "last_checked": "2026-04-28T15:09:39.467274",
+      "last_modified": "Fri, 15 Aug 2025 09:39:41 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/c461449d3825_210309_GDL-REG-003-V1.0_Guideline-on-Student-Record-Privacy.pdf"
+    },
+    {
+      "name": "201105_VUNI.18_Guideline-for-Course-Exchange.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/201105_VUNI.18_Guideline-for-Course-Exchange.pdf",
+      "type": "pdf",
+      "sha256": "a809b7fdd1cfdf2724a80f6329f3e2c635b7b92298a1b476eaa1a37ff1cf5aae",
+      "last_checked": "2026-04-28T15:09:39.657724",
+      "last_modified": "Wed, 09 Apr 2025 02:26:02 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/f3588bc65300_201105_VUNI.18_Guideline-for-Course-Exchange.pdf"
+    },
+    {
+      "name": "VU_PC07.VN_Quy-che-to-chuc-va-hoat-dong-truong-dai-hoc_18.10.2022.pdf",
+      "url": "https://policy.vinuni.edu.vn/wp-content/uploads/2023/05/VU_PC07.VN_Quy-che-to-chuc-va-hoat-dong-truong-dai-hoc_18.10.2022.pdf",
+      "type": "pdf",
+      "sha256": "17d317fdc494180e58532da338599c4dee9de0292b1ddfb5a844173b3854f497",
+      "last_checked": "2026-04-28T15:09:40.022367",
+      "last_modified": "Mon, 11 Dec 2023 07:10:40 GMT",
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/0607aeca6337_VU_PC07.VN_Quy-che-to-chuc-va-hoat-dong-truong-dai-hoc_18.10.2022.pdf"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/all-policies/minor-fields-information/",
+      "type": "link",
+      "sha256": "4a45e62da8373a529934d4397ab86754d184e3605b6dacffc4a4b6642f6010a5",
+      "last_checked": "2026-04-28T15:09:40.541219",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/6826db6f9453_unnamed_file.html"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/publication/academic-catalogs/",
+      "type": "link",
+      "sha256": "fc4ecb071a8f32a52af35afd63305b76cf7a41510e2dfd7eaae8d989b69069de",
+      "last_checked": "2026-04-28T15:09:41.081326",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/2c8ae822aed5_unnamed_file.html"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/all-policies/facility-usage-regulations-including-facilities-for-rent/",
+      "type": "link",
+      "sha256": "8abcbd1fccd65c5e5b8a2af546f3f7b27567da5c953c8ac5873f5c3b52ca48fe",
+      "last_checked": "2026-04-28T15:09:41.608081",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/c96d0c493707_unnamed_file.html"
+    },
+    {
+      "name": "unnamed_file",
+      "url": "https://policy.vinuni.edu.vn/all-policies/financial-regulations-and-tariff-for-student-2/",
+      "type": "link",
+      "sha256": "d752fcad54436cfb08100be0186fe4fe9ec922f5fbdbffc0e9bda69fd0767495",
+      "last_checked": "2026-04-28T15:09:42.181464",
+      "last_modified": null,
+      "local_path": "/home/nhminh/.openclaw/VinUniversityPolicies/64dacef1e0bb_unnamed_file.html"
+    }
+  ]
+}

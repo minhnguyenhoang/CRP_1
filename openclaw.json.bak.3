@@ -1,0 +1,166 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "/home/nhminh/.openclaw/workspace",
+      "models": {
+        "lmstudio/google/gemma-4-e4b": {}
+      },
+      "model": {
+        "primary": "lmstudio/google/gemma-4-e4b"
+      },
+      "compaction": {
+        "mode": "safeguard"
+      }
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "216eae206281ded6541c55a49c8e52c72dc5e71d33b65670"
+    },
+    "port": 18789,
+    "bind": "loopback",
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "controlUi": {
+      "allowInsecureAuth": true
+    },
+    "nodes": {
+      "denyCommands": [
+        "camera.snap",
+        "camera.clip",
+        "screen.record",
+        "contacts.add",
+        "calendar.add",
+        "reminders.add",
+        "sms.send",
+        "sms.search"
+      ]
+    }
+  },
+  "session": {
+    "dmScope": "per-channel-peer"
+  },
+  "tools": {
+    "profile": "coding",
+    "web": {
+      "search": {
+        "provider": "ollama",
+        "enabled": true
+      }
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "lmstudio": {
+        "baseUrl": "http://localhost:1234/v1",
+        "api": "openai-completions",
+        "auth": "api-key",
+        "apiKey": "LM_API_TOKEN",
+        "models": [
+          {
+            "id": "google/gemma-4-e4b",
+            "name": "Gemma 4 E4B",
+            "reasoning": true,
+            "input": [
+              "text",
+              "image"
+            ],
+            "cost": {
+              "input": 0,
+              "output": 0,
+              "cacheRead": 0,
+              "cacheWrite": 0
+            },
+            "contextWindow": 131072,
+            "contextTokens": 32768,
+            "maxTokens": 8192
+          }
+        ]
+      }
+    }
+  },
+  "auth": {
+    "profiles": {
+      "lmstudio:default": {
+        "provider": "lmstudio",
+        "mode": "api_key"
+      }
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "streaming": {
+        "mode": "partial"
+      },
+      "groups": {
+        "*": {
+          "requireMention": true
+        }
+      },
+      "botToken": "8776372992:AAFcwwJEbERFKteScus1vL2-8k3ynB29BlY"
+    }
+  },
+  "plugins": {
+    "entries": {
+      "ollama": {
+        "enabled": true
+      },
+      "lmstudio": {
+        "enabled": true
+      },
+      "telegram": {
+        "enabled": true
+      }
+    },
+    "load": {
+      "paths": [
+        "/usr/lib/node_modules/openclaw/dist/extensions/telegram"
+      ]
+    },
+    "installs": {
+      "telegram": {
+        "source": "path",
+        "spec": "telegram",
+        "sourcePath": "/usr/lib/node_modules/openclaw/dist/extensions/telegram",
+        "installPath": "/usr/lib/node_modules/openclaw/dist/extensions/telegram",
+        "installedAt": "2026-04-26T03:57:49.728Z"
+      }
+    }
+  },
+  "hooks": {
+    "internal": {
+      "enabled": true,
+      "entries": {
+        "boot-md": {
+          "enabled": true
+        },
+        "bootstrap-extra-files": {
+          "enabled": true
+        },
+        "command-logger": {
+          "enabled": true
+        },
+        "session-memory": {
+          "enabled": true
+        }
+      }
+    }
+  },
+  "wizard": {
+    "lastRunAt": "2026-04-28T13:28:45.202Z",
+    "lastRunVersion": "2026.4.21",
+    "lastRunCommand": "onboard",
+    "lastRunMode": "local"
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.4.21",
+    "lastTouchedAt": "2026-04-28T13:28:45.253Z"
+  }
+}
