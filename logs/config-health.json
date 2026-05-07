@@ -6,15 +6,15 @@
         "bytes": 4935,
         "mtimeMs": 1777389396004.0322,
         "ctimeMs": 1777389396004.7788,
-        "dev": "54",
+        "dev": "58",
         "ino": "399542",
-        "mode": 33152,
+        "mode": 384,
         "nlink": 1,
         "uid": 1000,
         "gid": 1000,
         "hasMeta": true,
         "gatewayMode": "local",
-        "observedAt": "2026-04-28T15:16:45.132Z"
+        "observedAt": "2026-05-06T17:31:25.796Z"
       },
       "lastObservedSuspiciousSignature": null,
       "lastPromotedGood": {
@@ -22,7 +22,7 @@
         "bytes": 4935,
         "mtimeMs": 1777389396004.0322,
         "ctimeMs": 1777389396004.7788,
-        "dev": "54",
+        "dev": "58",
         "ino": "399542",
         "mode": 33152,
         "nlink": 1,
@@ -30,7 +30,7 @@
         "gid": 1000,
         "hasMeta": true,
         "gatewayMode": "local",
-        "observedAt": "2026-04-28T15:16:45.132Z"
+        "observedAt": "2026-05-06T17:28:16.263Z"
       }
     }
   }
